@@ -1,0 +1,25 @@
+Date: 2026-05-07 19:31
+Analyste: SALIHI Yassine
+Cible: UnCrackable-Level1.apk
+Artefact: UnCrackable-Level1.apk
+Provenance: Enseignant / Projet de cours
+Hash SHA256: 1da8bf57d266109f9a07c01bf7111a1975ce01f190b9d914bcd3ae3dbef96f21  UnCrackable-Level1.apk
+
+Versions outils:
+  - BeVigil: web (https://bevigil.com)
+  - Yaazhini: [version]
+
+Environnement: Arch Linux
+
+--- BeVigil ---
+Source: BeVigil (https://bevigil.com)
+Date analyse: 2026-05-11 18:02:08
+Project: LAB-BEGINNER-20260511
+Cible analysée: com.android.insecurebankv2 (InsecureBankv2.apk)
+
+Note: L'analyse BeVigil a été effectuée sur InsecureBankv2.apk (com.android.insecurebankv2),
+      cible distincte de UnCrackable-Level1.apk utilisée pour le scope initial.
+
+Exports:
+  - bevigil_com.android.insecurebankv2_manifest_issues_1778518883800.csv (1.6k) — problèmes manifest
+  - bevigil_com.android.insecurebankv2_vuln_1778518876959.csv (7.8k)          — vulnérabilités
