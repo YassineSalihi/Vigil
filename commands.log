@@ -3,3 +3,4 @@ cp 'UnCrackable-Level1.apk' '00-scope/'
 sha256sum '00-scope/UnCrackable-Level1.apk'
 mkdir -p 00-scope 01-bevigil 02-yaazhini 03-triage 04-report
 2026-05-11 18:07:51 - Created 01-bevigil/bevigil_notes.md
+2026-05-11 18:31:48 - Created rapport_final.md + checklist_fin.md
